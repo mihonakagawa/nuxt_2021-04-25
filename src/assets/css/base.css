@@ -1,0 +1,9 @@
+a {
+  display: inline-block;
+}
+
+img {
+  vertical-align: bottom;
+  width: auto;
+  height: 100%;
+}
